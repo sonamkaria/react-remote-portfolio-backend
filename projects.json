@@ -1,0 +1,28 @@
+
+ [
+    {
+      "name": "Project 1",
+      "live": "https://startling-brigadeiros-4271aa.netlify.app/",
+      "git": "https://github.com/sonamkaria/react-weather-forecast",
+      "image": "https://static01.nyt.com/images/2014/12/11/technology/personaltech/11machin-illo/11machin-illo-superJumbo-v3.jpg"
+    },
+    {
+      "name": "Project 2",
+      "live": "https://app.netlify.com/sites/strong-bombolone-3e36ac/overview",
+      "git": "https://github.com/sonamkaria/react-starwars-lab",
+      "image": "https://static.wikia.nocookie.net/starwars/images/c/cc/Star-wars-logo-new-tall.jpg/revision/latest?cb=20190313021755"
+    },
+    {
+      "name": "Project 3",
+      "live": "https://bespoke-pegasus-0006b1.netlify.app/",
+      "git": "https://github.com/sonamkaria/react-cities",
+      "image": "https://www.mckinsey.com/~/media/mckinsey/industries/public%20and%20social%20sector/our%20insights/how%20to%20make%20a%20city%20great/citiesnew_largefeature_1536x1152.jpg"
+    },
+    {
+      "name": "Project 4",
+      "live": "https://steady-haupia-d22686.netlify.app/",
+      "git": "https://github.com/sonamkaria/mern-people-app-frontend",
+      "image": "https://img.freepik.com/premium-vector/set-avatars-happy-people-different-races-age-portraits-men-women_165429-91.jpg?w=2000"
+    }
+  ]
+
